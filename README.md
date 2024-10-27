@@ -1,13 +1,6 @@
-Muhia Martin Portfolio
 This repository contains the HTML, CSS, and JavaScript code for my personal portfolio website. The portfolio showcases my skills, services, and projects, along with a blog and contact form. It includes a custom-designed header, navbar, hero carousel, and several content sections styled with Bootstrap and custom CSS.
 
-Table of Contents
-Technologies Used
-Features
-Setup Instructions
-Usage
-Project Structure
-License
+
 Technologies Used
 HTML5
 CSS3 (Bootstrap 5.3 and custom CSS)
@@ -20,11 +13,11 @@ Service Cards: Shows services with images and descriptions.
 Contact Form: Collects user input with a name, email, and message form.
 Social Media Links: Links to social media profiles, including WhatsApp.
 Setup Instructions
-Clone the repository:
+Clone the repository:https://github.com/muhiawairimu/portifolio_muhia.git
 
 bash
 Copy code
-git clone https://github.com/yourusername/portfolio.git
+git clone 
 Navigate to the project folder:
 
 bash
